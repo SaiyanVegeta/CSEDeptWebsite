@@ -26,3 +26,4 @@ A CSE dept. website which is built on Django Backend and uses Materialize CSS fr
 - Harsh Rangwani (15075018)
 - Rahul Anand(15075040)
 - Pritesh Samant(15075043)
+- Hoshiyar Singh(15074007)
